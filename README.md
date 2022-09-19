@@ -20,7 +20,7 @@ We would always recommend that you remove the public key from your system when a
 
 # Analytium How-To
 1. Pull the repo to ensure you are in sync: git pull
-2. Create a new branch for your key: git checkout -b <branch-name>
+2. Create a new branch for your key: git checkout -b **branch-name**
 3. Add your file as *first*.*last*@analytium.co.uk.pub and add to git: git add .
 4. Commit your staged change: git commit -m 'addition of *mykey*'
 5. Push your branch: git push
